@@ -1,0 +1,14 @@
+
+Number of players: 2
+Name		Score
+---------------------------
+Mihan :		3
+Mihan :		300000$ Earn
+
+
+Mihu:		2
+Mihu:		200000$ Earn
+
+
+==> The winner is: Mihan 
+
